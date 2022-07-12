@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+# production 我需要发布在github所以不要忽略
+#/build
 
 # misc
 .DS_Store
